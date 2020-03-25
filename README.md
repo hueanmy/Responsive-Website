@@ -2,9 +2,9 @@
 
 Introduce some principles when designing responsive website.
 
-## Grid View
+## :point_right: Grid View
 
-## Media Queries
+## :point_right: Media Queries
 
 *Note: Media Queries cannot work with IE8 and lower versions. Some support libraries that will provide Javascript processing include Respond.js and CSS3-MediaQueries.js.
 
@@ -80,7 +80,7 @@ Media Queries is a CSS technique introduced in CSS3. We use the @media syntax to
     .col-12 {width: 100%;}
 }
 ```
-## Use relative values instead of absolute values (avoid using traditional units like pixels or inches).
+## :point_right: Use relative values instead of absolute values (avoid using traditional units like pixels or inches).
 
 Absolute values cannot be resized horizontally / horizontally by devices.
 
@@ -180,11 +180,11 @@ Note: Can using calc:
 }
 ```
 
-## Use SVG icons instead of regular image icons (JPG, PNG, ...)
+## :point_right: Use SVG icons instead of regular image icons (JPG, PNG, ...)
 
 SVG icons and images will not be blurred when zoomed in any size
 
-## Display flow type content
+## :point_right: Display flow type content
 This principle means that content should only be displayed in one line from top to bottom, absolutely avoid having users swipe horizontally to be able to see the content, they will leave your site immediately.
 
 
