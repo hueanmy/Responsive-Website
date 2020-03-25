@@ -1,5 +1,7 @@
 # Responsive-Website
 
+Introduce some principles when designing responsive website.
+
 ## Grid View
 
 ## Media Queries
