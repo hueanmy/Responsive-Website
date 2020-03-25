@@ -84,7 +84,7 @@ Media Queries is a CSS technique introduced in CSS3. We use the @media syntax to
 
 Absolute values cannot be resized horizontally / horizontally by devices.
 
-Some values can using: %, rem, 
+Some values can using: %, rem, vh, vw, ch, ex, vmax, vmin
 
 ### %
 
