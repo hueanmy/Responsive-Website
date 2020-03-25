@@ -1,4 +1,4 @@
-# Responsive-Website :raised_hand: :raised_hand: :raised_hand:
+# :raised_hand: Responsive-Website :raised_hand:
 
 Introduce some principles when designing responsive website.
 
