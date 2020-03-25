@@ -80,7 +80,7 @@ Media Queries is a CSS technique introduced in CSS3. We use the @media syntax to
     .col-12 {width: 100%;}
 }
 ```
-## :point_right: Use relative values instead of absolute values (avoid using traditional units like pixels or inches).
+## :point_right: Use relative values instead of absolute values (avoid using traditional units like pixels or inches). ( :boom: )
 
 Absolute values cannot be resized horizontally / horizontally by devices.
 
